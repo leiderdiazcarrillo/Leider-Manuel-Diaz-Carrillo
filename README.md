@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Leider 👋</h1>
 
 <p align="center">
-  Desarrollador | Estudiante de Desarrollo de Software en SENA | Cartagena, Colombia 🇨🇴
+  Desarrollador | Tecnologo en Analisis y Desarrollo de Software en SENA | Cartagena, Colombia 🇨🇴
 </p>
 
 <p align="center">
