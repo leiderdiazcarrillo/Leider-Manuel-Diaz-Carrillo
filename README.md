@@ -47,6 +47,27 @@ Tarjeta de perfil interactiva desarrollada en **Flutter**, con botones de redes 
 
 ---
 
+### 🎓 Competencias — Tecnólogo en Análisis y Desarrollo de Software (SENA)
+
+Formación de 27 meses / 3.984 horas, alineada con el perfil ocupacional de desarrollador full stack, analista de sistemas y QA.
+
+| Área de competencia | Estado |
+|---|---|
+| Análisis y diseño de sistemas (UML, requisitos, DFD) | ✅ Aplicado en EventPlanner SENA y LibrosApp |
+| Desarrollo backend (C#, .NET, ASP.NET MVC/Core) | ✅ Dominado |
+| Desarrollo frontend (Bootstrap, Razor, Flutter/Dart) | ✅ Dominado |
+| Bases de datos relacionales (SQL Server, normalización) | ✅ Dominado |
+| Bases de datos no relacionales (MongoDB) | ✅ Aplicado en SENDAPLUS y LibrosApp |
+| Despliegue en la nube (Azure App Service) | ✅ Aplicado en EventPlanner SENA |
+| Control de versiones (Git/GitHub) | ✅ En uso diario |
+| Aseguramiento de calidad (QA, pruebas funcionales) | 🔄 En proceso |
+| DevOps (Docker, CI/CD, Jenkins) | 🔄 En proceso |
+| Metodologías ágiles de desarrollo | 🔄 En proceso |
+| Seguridad informática / ciberseguridad | 🔄 En proceso |
+| Big Data, Blockchain, IoT, Machine Learning | 📘 Fundamentos vistos en la formación |
+
+---
+
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
