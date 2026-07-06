@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Leider 👋</h1>
 
 <p align="center">
-  Desarrollador Flutter & Full Stack | Estudiante de Desarrollo de Software en SENA | Cartagena, Colombia 🇨🇴
+  Desarrollador | Estudiante de Desarrollo de Software en SENA | Cartagena, Colombia 🇨🇴
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ### 🚀 Sobre mí
 
 - 🎓 Tegnologo en **Analisis y Desarrollo de Software** en el SENA (Servicio Nacional de Aprendizaje)
-- 💻 Enfocado en desarrollo **móvil con Flutter**, **móvil con Flutter** y aplicaciones **web con .NET**
+- 💻 Enfocado en desarrollo **móvil con Flutter**,  **Machine Learning** y la Inteligencia Artificial y aplicaciones **web con .NET**
 - 🗄️ Experiencia trabajando con bases de datos relacionales (**SQL Server**) y no relacionales (**MongoDB**)
 - ☁️ Despliegue de aplicaciones en **Azure App Service**
 - 📍 Cartagena, Colombia
@@ -66,12 +66,12 @@ Tarjeta de perfil interactiva desarrollada en **Flutter**, con botones de redes 
 
 ### 🎓 Competencias — Tecnólogo en Análisis y Desarrollo de Software (SENA)
 
-Formación de 27 meses / 3.984 horas, alineada con el perfil ocupacional de desarrollador full stack, analista de sistemas y QA.
+Formación de 27 meses / 3.984 horas, alineada con el perfil ocupacional de desarrollador, analista de sistemas y QA.
 
 | Área de competencia | Estado |
 |---|---|
 | Análisis y diseño de sistemas (UML, requisitos, DFD) | ✅ Aplicado en EventPlanner SENA y LibrosApp |
-| Desarrollo backend (C#, .NET, ASP.NET MVC/Core) | ✅ Dominado |
+| Desarrollo backend (C#, Python, Java .NET, ASP.NET MVC/Core) | ✅ Dominado |
 | Desarrollo frontend (Bootstrap, Razor, Flutter/Dart) | ✅ Dominado |
 | Bases de datos relacionales (SQL Server, normalización) | ✅ Dominado |
 | Bases de datos no relacionales (MongoDB) | ✅ Aplicado en SENDAPLUS y LibrosApp |
@@ -92,23 +92,11 @@ Me apasiona el potencial del **Machine Learning** y la Inteligencia Artificial p
 - 📊 **Estadística aplicada** y análisis exploratorio de datos.
 - 🤖 Integración de modelos predictivos y servicios cognitivos en la nube (**Azure AI**).
 
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" width="50%" />
-</p>
-
 ---
 
 ### 📫 Contáctame
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/leider-diaz-carrillo-0aa166366/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:leiderdiazcarrillo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
