@@ -19,8 +19,8 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiante de **Desarrollo de Software** en el SENA (Servicio Nacional de Aprendizaje)
-- 💻 Enfocado en desarrollo **móvil con Flutter** y aplicaciones **web con .NET**
+- 🎓 Tegnologo en **Analisis y Desarrollo de Software** en el SENA (Servicio Nacional de Aprendizaje)
+- 💻 Enfocado en desarrollo **móvil con Flutter**, **móvil con Flutter** y aplicaciones **web con .NET**
 - 🗄️ Experiencia trabajando con bases de datos relacionales (**SQL Server**) y no relacionales (**MongoDB**)
 - ☁️ Despliegue de aplicaciones en **Azure App Service**
 - 📍 Cartagena, Colombia
@@ -47,6 +47,23 @@ Tarjeta de perfil interactiva desarrollada en **Flutter**, con botones de redes 
 
 ---
 
+### 💻 Lenguajes de programación
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
 ### 🎓 Competencias — Tecnólogo en Análisis y Desarrollo de Software (SENA)
 
 Formación de 27 meses / 3.984 horas, alineada con el perfil ocupacional de desarrollador full stack, analista de sistemas y QA.
@@ -67,6 +84,14 @@ Formación de 27 meses / 3.984 horas, alineada con el perfil ocupacional de desa
 | Big Data, Blockchain, IoT, Machine Learning | 📘 Fundamentos vistos en la formación |
 
 ---
+
+### 🎯 Mis Próximos Pasos / Intereses
+
+Me apasiona el potencial del **Machine Learning** y la Inteligencia Artificial para resolver problemas complejos a través de los datos. Actualmente me encuentro expandiendo mis conocimientos en:
+- 🐍 Fundamentos de **Python** orientados a la Ciencia de Datos.
+- 📊 **Estadística aplicada** y análisis exploratorio de datos.
+- 🤖 Integración de modelos predictivos y servicios cognitivos en la nube (**Azure AI**).
+
 
 ### 📊 Estadísticas de GitHub
 
